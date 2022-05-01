@@ -1,0 +1,21 @@
+Circuit: * D:\Repository\CEE\RedresseurLC.asc
+
+.OP point found by inspection.
+
+Date: Sun May 01 18:58:28 2022
+Total elapsed time: 0.387 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 28357
+traniter = 28357
+tranpoints = 13854
+accept = 12742
+rejected = 1112
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1:      22 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 647 bytes object code size  0.1/0.1/[0.1]
+

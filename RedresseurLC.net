@@ -1,0 +1,14 @@
+* D:\Repository\CEE\RedresseurLC.asc
+D1 v W RFUH30TS6S
+D2 0 W RFUH30TS6S
+D3 u- v RFUH30TS6S
+L W u+ 200m
+C u+ u- 4m
+R u+ u- 5
+V v 0 SINE(0 10 50)
+D4 u- 0 RFUH30TS6S
+.model D D
+.lib C:\Users\titof\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.dio
+.tran 0 1080m 1000m 100u
+.backanno
+.end
